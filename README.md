@@ -3,5 +3,5 @@ vezba 1
 
 ## Opis projekta
 
--- alala
+ alala
 ###ljflskdjlfks
