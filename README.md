@@ -1,7 +1,7 @@
 # ee140
 vezba 1
 
-# Opis projekta
+## Opis projekta
 
 -- alala
-ljflskdjlfks
+###ljflskdjlfks
